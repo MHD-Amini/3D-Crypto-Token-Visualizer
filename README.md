@@ -2,15 +2,6 @@
 
 An interactive 3D visualization tool where cryptocurrencies are represented as floating 3D objects in space. Users can explore, interact with tokens, and "collect" them by connecting their MetaMask wallet.
 
-![3D Crypto Visualizer](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-## 🎯 Live Demo
-
-**Preview URL**: https://3000-i0qi9ktkkuw4to215igjl-cbeee0f9.sandbox.novita.ai
-
 ## ✨ Features
 
 ### Core Features
@@ -99,9 +90,6 @@ An interactive 3D visualization tool where cryptocurrencies are represented as f
 ### Installation
 
 ```bash
-# Clone the repository
-git clone <repository-url>
-cd webapp
 
 # Install dependencies
 npm install
@@ -237,10 +225,5 @@ Modify Three.js settings in `app.js`:
 - **Lazy Loading**: Assets load progressively
 - **Edge Deployment**: Global CDN via Cloudflare
 
-## 📄 License
-
-MIT License - Feel free to use for your portfolio!
-
 ---
 
-**Built with ❤️ using Three.js, Hono, and Cloudflare Pages**
